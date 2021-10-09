@@ -30,7 +30,7 @@
         <h1 style="font-family: 'Quicksand'">Teza Alfian</h1>
         <div class="d-flex justify-content-center mb-1">
             <a href="https://www.instagram.com/tezaalfian" target="_blank" class="btn btn-outline-secondary me-1 btn-rounded"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.linkedin.com/in/teza-alfian-3a2b5518b/" target="_blank" class="btn btn-outline-secondary me-1 btn-rounded"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/teza-alfian/" target="_blank" class="btn btn-outline-secondary me-1 btn-rounded"><i class="fab fa-linkedin"></i></a>
             <a href="https://github.com/tezaalfian" target="_blank" class="btn btn-outline-secondary me-1 btn-rounded"><i class="fab fa-github"></i></a>
             <a href="https://gitlab.com/tezaalfian" target="_blank" class="btn btn-outline-secondary me-1 btn-rounded"><i class="fab fa-gitlab"></i></a>
         </div>
