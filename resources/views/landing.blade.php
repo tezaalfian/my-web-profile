@@ -26,7 +26,7 @@
   </head>
   <body class="bg-dark d-flex justify-content-center align-items-center" style="min-height: 100vh;">
     <div class="text-white text-center">
-        <img src="https://avatars.githubusercontent.com/u/44139001?s=400&u=a54bee20dffec959ab2fec7e43d04d825903b578&v=4" class="border border-3 rounded-circle mb-3" style="width: 170px;">
+        <img src="{{ env('APP_AVATAR', 'https://avatars.githubusercontent.com/u/44139001') }}" class="border border-3 rounded-circle mb-3" style="width: 170px;">
         <h1 style="font-family: 'Quicksand'">Teza Alfian</h1>
         <div class="d-flex justify-content-center mb-1">
             <a href="https://www.instagram.com/tezaalfian" target="_blank" class="btn btn-outline-secondary me-1 btn-rounded"><i class="fab fa-instagram"></i></a>
